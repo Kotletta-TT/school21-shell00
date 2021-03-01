@@ -1,0 +1,5 @@
+Credentials cache: API:E639E2B6-7C9A-4633-A6FD-4647842FF126
+        Principal: aarson@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  1 18:17:35 2021  Mar  2 04:17:35 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
